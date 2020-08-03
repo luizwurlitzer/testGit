@@ -1,0 +1,1 @@
+"-version" "-b" "rabbitMqRar-1.0-SNAPSHOT" "-clean" "-logfile" "C:/Program Files/Fortify/Fortify_SCA_and_Apps_20.1.0/plugins/maven/samples/simplistic.rabbitMQ/rabbitMqRar/target/fortify/sca-clean.log"
